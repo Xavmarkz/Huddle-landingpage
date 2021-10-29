@@ -11,7 +11,7 @@
 .parr{
     font-family: 'Open Sans', sans-serif;
     font-weight:400;
-    Font-size: 18px;
+    Font-size: 16px;
 }
 .main_parr{
     margin-bottom: 40px;
@@ -132,7 +132,6 @@
     box-shadow: 11px 9px 13px -6px rgba(238,168,209,1);
     -webkit-box-shadow: 11px 9px 13px -6px rgba(238,168,209,1);
     -moz-box-shadow: 11px 9px 13px -6px rgba(238,168,209,1);
-
 }
 footer{
     width: 100%;
@@ -142,12 +141,12 @@ footer{
     padding: 150px 15px 20px;
     color: #fff;
     margin: 0px;
-
 }
 .logo_footer_container{
     width: 100px;
     height: 30px;
     margin-bottom: 20px;
+    padding-left: 50px;
 }
 .logo_footer_svg{
     display: block;
@@ -159,7 +158,6 @@ footer{
 }
 .item_container{
     width: 100%;
-
 }
 .f_container{
     display: flex;
@@ -181,7 +179,6 @@ footer{
     list-style: none;
     display: inline-block;
     padding: 0px;
-    height: 140px;
 }
 .nav_footer, li{
     margin-bottom: 10px;
@@ -268,7 +265,6 @@ footer{
         width: 100px;
         height: 30px;
         margin-bottom: 20px;
-        margin-left: 48px;
     }
     .item_container{
         width: 50%;
